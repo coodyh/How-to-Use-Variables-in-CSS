@@ -1,0 +1,7 @@
+:root {
+  --dark-blue: #569cd6;
+}
+
+p.example {
+  color: var(--dark-blue);
+}
